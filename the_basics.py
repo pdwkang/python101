@@ -27,4 +27,8 @@ dc_class_as_array = dc_class.split(',')
 
 # a function in python is not a function. it is a definition, ergo, def
 def sayHello():print "hello"
-sayHello()
+	# just like for loops, : is like {} in python for functions
+	# Indentation matters, just like the for loop
+
+sayHello();
+
